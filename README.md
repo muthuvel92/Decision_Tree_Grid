@@ -25,6 +25,3 @@ Notes from my learning on Step by step instruction for creating a Machine learni
 4. **Fit the Model**: Train the model on the training data using the grid search.
 5. **Evaluate Results**: Analyze the output to determine the best-performing hyperparameter combination based on the chosen scoring metric.
 
-### Conclusion
-
-Using a Grid Search for Decision Trees is an effective approach to fine-tune hyperparameters, thereby improving model accuracy and robustness. It ensures that the model is optimally configured for the specific dataset at hand. If you have more questions about Decision Trees or grid search methods, feel free to ask! 😊
